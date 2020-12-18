@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+body {
+background-color: aliceblue;
+}
+
+h1, h2, h3 {
+  font-family: 'Arvo', Arial, sans-serif;
+  font-weight: 400;
+  text-align:center;
+}
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+.generate {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 1.3rem;
+  margin: 0 auto;
+}
+p {
+  font-family: 'Open Sans', Arial, sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.container {
+  max-height: 50%;
+  width: 50%;
+  margin: 10em auto;
+  padding: 3em;
+  background: white;
+  text-align: center;
+}

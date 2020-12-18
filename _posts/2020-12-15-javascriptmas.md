@@ -72,6 +72,13 @@ A rather simple and intuitive solution. Split the original string, create an emp
 
 [See my solution here](https://scrimba.com/scrim/co7904720879a0e78bbfe151d) 
 
+### Day 18: Array Previous Less
+
+I probably should not have looked at the Discord before trying to solve this one on my own, as my solution is heavily inspired from things there... otherwise I would have gone a lot longer with a more long winded solution. 
+
+[See my solution here](https://scrimba.com/scrim/co6c94007a6804a981eab8761) 
+
+
 ### Things I've learned from JavaScriptmas
 * Habitual practice makes perfect - the reminders to do something every day  
 * It's not possible to do a big project in a day, but solving a little exercise per day really gives my mental state a boost.

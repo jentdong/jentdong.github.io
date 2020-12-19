@@ -74,9 +74,13 @@ A rather simple and intuitive solution. Split the original string, create an emp
 
 ### Day 18: Array Previous Less
 
-I probably should not have looked at the Discord before trying to solve this one on my own, as my solution is heavily inspired from things there... otherwise I would have gone a lot longer with a more long winded solution. 
+I probably should not have looked at the Discord before trying to solve this one on my own, as my solution is heavily inspired from things there... otherwise I would have gone a lot longer with a more long winded solution. Well, now I know about the Math.min and (not used, but observed) more applications of the map function.
 
 [See my solution here](https://scrimba.com/scrim/co6c94007a6804a981eab8761) 
+
+### Day 19: Alphabet Subsequence
+
+[See my solution here](https://scrimba.com/scrim/co99b40b09478ce945acac846) 
 
 
 ### Things I've learned from JavaScriptmas

@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
 body {
-background-color: aliceblue;
+  background-image: url('books.jpg');
+  background-color: #654321;
+  background-size: cover;
+  background-position: center;
 }
 
 h1, h2, h3 {
   font-family: 'Arvo', Arial, sans-serif;
   font-weight: 400;
-  text-align:center;
 }
 h1 {
   font-size: 2rem;
@@ -24,15 +26,32 @@ h2 {
 }
 p {
   font-family: 'Open Sans', Arial, sans-serif;
-  text-align: center;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 .container {
-  max-height: 50%;
-  width: 50%;
-  margin: 10em auto;
-  padding: 3em;
+  height: 80%; 
+  width: 70%;
+  margin: 5em auto;
+  padding: 1em;
   background: white;
   text-align: center;
+}
+
+.credit, .credit a, nav, nav a {
+  margin: auto;
+  position: relative;
+  color: black;
+  font-size:1em;
+  max-width: 60%;
+  font-family: 'Open Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+
+@media only screen and (min-width:700px) {
+  .container {
+    width: 500px;
+    margin: 5em auto;
+  }
 }

@@ -82,6 +82,11 @@ I probably should not have looked at the Discord before trying to solve this one
 
 [See my solution here](https://scrimba.com/scrim/co99b40b09478ce945acac846) 
 
+### Day 20: Domain Type
+
+I learned how to use the map function correctly! I also learned how to lookup things similar to dictionaries in other langauges using a Javascript object.
+
+[See my solution here](https://scrimba.com/scrim/co8a549cd840b152195a27e24)
 
 ### Things I've learned from JavaScriptmas
 * Habitual practice makes perfect - the reminders to do something every day  

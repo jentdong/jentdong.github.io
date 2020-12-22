@@ -88,6 +88,12 @@ I learned how to use the map function correctly! I also learned how to lookup th
 
 [See my solution here](https://scrimba.com/scrim/co8a549cd840b152195a27e24)
 
+### Day 21: Sum of Two
+
+I did not take the hint on this one... I'm pretty sure it has something to do with a Map object, but I will look at the solution tomorrow and see where the Scrimba folks were going with it.
+
+[See my solution here](https://scrimba.com/scrim/co4e3472f9e7724e554092eaa)
+
 ### Things I've learned from JavaScriptmas
 * Habitual practice makes perfect - the reminders to do something every day  
 * It's not possible to do a big project in a day, but solving a little exercise per day really gives my mental state a boost.

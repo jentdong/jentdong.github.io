@@ -94,6 +94,11 @@ I did not take the hint on this one... I'm pretty sure it has something to do wi
 
 [See my solution here](https://scrimba.com/scrim/co4e3472f9e7724e554092eaa)
 
+### Day 22: Extract Matrix Column
+
+[See my solution here](https://scrimba.com/scrim/coccb43f19c1308d6471a4608)
+
+
 ### Things I've learned from JavaScriptmas
 * Habitual practice makes perfect - the reminders to do something every day  
 * It's not possible to do a big project in a day, but solving a little exercise per day really gives my mental state a boost.

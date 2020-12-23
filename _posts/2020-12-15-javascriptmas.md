@@ -46,7 +46,9 @@ I then looked at the solution, and pretty much followed that to the end... it wa
 [See my solution here](https://scrimba.com/scrim/co575414ea3ef4c08edde6007).
 ### Day 11: Avoid Obstacles
 
-Did I skip this one on December 11 because I was busy and then came back to it. At first, I did some really odd things... passing through the list with each multiple of the current checking number until the multiple was bigger than the biggest number in the array... so much more complicated than it needed to be. Then I searched and remembered the mod function... existed. Smooth sailing from there.
+Did I skip this one on December 11 because I was busy and then came back to it when the badge and certificate was announced? Perhaps...
+
+At first, I did some really odd things... passing through the list with each multiple of the current checking number until the multiple was bigger than the biggest number in the array... so much more complicated than it needed to be. Then I searched and remembered the mod function... existed. Smooth sailing from there.
 
 [See my solution here](https://scrimba.com/scrim/co0c442f99a7c551161ac93de).
 ### Day 12: Valid Time

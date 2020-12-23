@@ -11,7 +11,7 @@ body {
 	body {
     max-width: 100%;
     background-image: url('books.jpg');
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: auto;
 	}
 }

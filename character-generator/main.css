@@ -4,6 +4,7 @@ body {
   background-image: url('books.jpg');
   background-color: #654321;
   background-size: cover;
+  background-attachment: fixed;
   background-position: center;
 }
 
@@ -11,7 +12,6 @@ body {
 	body {
     max-width: 100%;
     background-image: url('books.jpg');
-    background-attachment: fixed;
     background-size: auto;
 	}
 }

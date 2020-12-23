@@ -32,6 +32,11 @@ A simple one to get us started! Given a number of children and a number of candi
 ### Day 7: Count Vowel Consonant
 [See my solution here](https://scrimba.com/scrim/cob6045b790defac072568f81)
 ### Day 8: The Rolling Dice
+
+Ah, the rolling dice. This one was a 'I don't know what I'm really doing' game; I wasn't good at HTML DOM when starting it! I knew how to generate the numbers randomly from 1 to 6, but I got stuck on making the dots appear in the right places. I started off thinking about a blank dice face every time, adding the number of dots that were rolled, and then attempted to use flexbox to corral them into the right order - which works alright up to 3, and then with 4-6 you sort of need a column structure and I could not figure out how to implement that using Javascript.
+
+I then looked at the solution, and pretty much followed that to the end... it was not my finest hour, but at least it worked, and I've learned valuable lessons (like how to add and remove classes using JS!) 
+
 [See my (first, failed) solution here](https://scrimba.com/scrim/co88e44f6abb1cfbffd717fca).
 
 [See my working solution here](https://scrimba.com/scrim/coc2c4209ad6c3dedd0b2475c)
@@ -40,6 +45,9 @@ A simple one to get us started! Given a number of children and a number of candi
 ### Day 10: Adjacent Elements Product
 [See my solution here](https://scrimba.com/scrim/co575414ea3ef4c08edde6007).
 ### Day 11: Avoid Obstacles
+
+Did I skip this one on December 11 because I was busy and then came back to it. At first, I did some really odd things... passing through the list with each multiple of the current checking number until the multiple was bigger than the biggest number in the array... so much more complicated than it needed to be. Then I searched and remembered the mod function... existed. Smooth sailing from there.
+
 [See my solution here](https://scrimba.com/scrim/co0c442f99a7c551161ac93de).
 ### Day 12: Valid Time
 [See my solution here](https://scrimba.com/scrim/co853442287506cd6ab5f6d5b).
@@ -97,6 +105,14 @@ I did not take the hint on this one... I'm pretty sure it has something to do wi
 ### Day 22: Extract Matrix Column
 
 [See my solution here](https://scrimba.com/scrim/coccb43f19c1308d6471a4608)
+
+### Day 23: Social Media Input
+
+Another HTML DOM exercise! I think I've really started to get the hang of it now, adding Event Listeners, changing and removing classes (Rolling Dice, you did teach me something after all, haha!)... a far cry from the start of Javascriptmas! I did have some hiccups - I wrote the syntax to change the colour wrong, so it just kept throwing an Error: Unknown error and I had to W3Schools my way out of it. The other issue is that I started using the keydown event, which didn't register a backspace properly and wouldn't register a CTRL-V, for example. I fixed this with a peek from another solution, which used the 'input' event. Much better!
+
+As of time of writing, the tool still has the default styling that we were provided. I'm hoping to go back and jazz up the UI a bit after posting this update
+
+[See my solution here](https://scrimba.com/scrim/co4874520bab782a424a86555)
 
 
 ### Things I've learned from JavaScriptmas

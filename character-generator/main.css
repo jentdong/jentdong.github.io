@@ -4,16 +4,8 @@ body {
   background-image: url('books.jpg');
   background-color: #654321;
   background-size: cover;
-  background-attachment: scroll;
   background-position: center;
-}
-
-@media screen and (max-width: 768px) {
-	body {
-    max-width: 100%;
-    background-image: url('books.jpg');
-    background-size: auto;
-	}
+  background-attachment: fixed;
 }
 
 h1, h2, h3 {

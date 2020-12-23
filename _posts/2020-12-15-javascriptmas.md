@@ -110,7 +110,7 @@ I did not take the hint on this one... I'm pretty sure it has something to do wi
 
 Another HTML DOM exercise! I think I've really started to get the hang of it now, adding Event Listeners, changing and removing classes (Rolling Dice, you did teach me something after all, haha!)... a far cry from the start of Javascriptmas! I did have some hiccups - I wrote the syntax to change the colour wrong, so it just kept throwing an Error: Unknown error and I had to W3Schools my way out of it. The other issue is that I started using the keydown event, which didn't register a backspace properly and wouldn't register a CTRL-V, for example. I fixed this with a peek from another solution, which used the 'input' event. Much better!
 
-As of time of writing, the tool still has the default styling that we were provided. I'm hoping to go back and jazz up the UI a bit after posting this update
+As of time of writing, the tool still has the default styling that we were provided. I'm hoping to go back and jazz up the UI a bit after posting this update.
 
 [See my solution here](https://scrimba.com/scrim/co4874520bab782a424a86555)
 

@@ -116,15 +116,22 @@ As of time of writing, the tool still has the default styling that we were provi
 
 [See my solution here](https://scrimba.com/scrim/co4874520bab782a424a86555)
 
+### Day 24: Test Your Agility
+Here we are! The final day. It's been an interesting ride, and this was was a nice one to close it out. I ran into a few snags, a lot of unknown errors because apparently I still can't remember that the equivalence operator is == and not just =, but I got there in there in the end and managed to make a working tester. The only issue now is that I can't actually hit the target number with my agility! 1 or 2 off, sure, but spot on? Hasn't happened yet. 
 
-### Things I've learned from JavaScriptmas
+I'm off to have a few more tries. Thanks for reading!
+
+[See my solution here](https://scrimba.com/scrim/co2da45fd81239c9b2841365f)
+
+
+# Things I've learned from JavaScriptmas
 * Habitual practice makes perfect - the reminders to do something every day  
 * It's not possible to do a big project in a day, but solving a little exercise per day really gives my mental state a boost.
 * Occam's Razor-ing is the best way to go. Keep it clean and simple, no more than you need to. (Looking at you, day 11.)
 * When in doubt, Google is your best friend. Methods, selectors, styling elements, seeing how others did a specific thing that you're trying to implement... the world is out there!
 * I've learned a bit more about making code flexible - making sure it still works when a use case changes, and avoiding redundancy.
 
-### Summary
+# Summary
 JavaScriptmas was a great way to practice JavaScript, with a mixture of short algorithmic problems to changing design elements. I've learnt a lot, and I'm excited to take my JavaScript skills further.
 
 Final question: would I do it again next year? Absolutely.

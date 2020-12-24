@@ -41,7 +41,7 @@ At first, I did some really odd things... passing through the list with each mul
 ### [Day 12: Valid Time](https://scrimba.com/scrim/co853442287506cd6ab5f6d5b)
 ### [Day 13: Extract Each Kth](https://scrimba.com/scrim/co87f4f93bd909ace1065c4c6)
 ### [Day 14: Maximal Adjacent Difference](https://scrimba.com/scrim/co1c944c8a185c32106681e45)
-### [Day 15: Carousel](https://scrimba.com/scrim/co1b54ebfab29694cce1b4378)
+### [Day 15: Carousel](https://scrimba.com/scrim/co3144d958ef4bf7bc71c5d1a)
 Another building exercise! This time, a Christmas themed carousel. I'm actually quite proud of this one; my redemption from The Rolling Dice, as you will.
 
 As suggested, I used the transformX property, changing with increments of 220px when buttons were clicked, as well as checking that the transforms weren't at the external limits of the carousel. This would break if you wanted to add another image, and I learned some great things from the #javascriptmas Discord channel about this. I also changed the opacity of the buttons at the limits, which would again break if you wanted to add another image.

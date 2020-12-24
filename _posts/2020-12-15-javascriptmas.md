@@ -37,9 +37,7 @@ Ah, the rolling dice. This one was a 'I don't know what I'm really doing' game; 
 
 I then looked at the solution, and pretty much followed that to the end... it was not my finest hour, but at least it worked, and I've learned valuable lessons (like how to add and remove classes using JS!) 
 
-[See my (first, failed) solution here](https://scrimba.com/scrim/co88e44f6abb1cfbffd717fca).
-
-[See my working solution here](https://scrimba.com/scrim/coc2c4209ad6c3dedd0b2475c)
+[See my solution here](https://scrimba.com/scrim/coc2c4209ad6c3dedd0b2475c)
 ### Day 9: Sum Odd Fibonnaci Numbers
 [See my solution here](https://scrimba.com/scrim/coca94f228230312c10190da3).
 ### Day 10: Adjacent Elements Product
